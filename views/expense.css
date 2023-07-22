@@ -1,0 +1,29 @@
+form{
+    margin-top: 50px;
+    margin-left: 400px;
+    align-items: center;
+    width: 400px;
+    margin-right: 50px;
+    padding-top: 40px;
+    color:black;
+    font-size:14pt;
+    font-style:italic;
+    
+}
+
+.container{
+    background-color: aquamarine;
+    width: 400px;
+    height: 400px;
+    
+}
+
+#getData{
+    display: block;
+    text-align:center;
+    border: none;
+    
+
+}
+
+
